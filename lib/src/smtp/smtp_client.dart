@@ -1,6 +1,6 @@
 import 'dart:async';
 import 'dart:convert' as convert;
-import 'dart:io';
+import 'package:universal_io/io.dart';
 
 import 'package:mailer/smtp_server.dart';
 
